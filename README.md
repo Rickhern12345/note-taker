@@ -1,2 +1,1 @@
-<img width="1680" alt="Screen Shot 2021-09-11 at 11 30 49 PM" src="https://user-images.githubusercontent.com/86048677/132975517-7b2a79a4-2ff9-4121-ba46-470ccd9fa2aa.png">
-# note-taker
+<img width="1107" alt="Screen Shot 2021-12-06 at 10 57 02 PM" src="https://user-images.githubusercontent.com/86048677/144981742-3a34cd15-fa58-4bba-8c9f-e62a5ed7365b.png">
